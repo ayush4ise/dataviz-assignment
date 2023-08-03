@@ -1,6 +1,6 @@
 ## Final assignment submission for the Coursera [course](https://www.coursera.org/learn/python-plotting?specialization=data-science-python)- Applied Plotting, Charting and Data Representation in Python offered by University on Michigan.
 
-*Objective question* - Comparing weekday vs. weekday average demand values and monthly demand changes
+*Objective question* - Comparing weekday vs. weekday average demand values and monthly demand changes  
 *Insights drawn* -  
 * Weekends have less energy demand than weekdays which might be result of the weekly holidays.  
 * For the period January-February, the demand decreases which is because of the Chinese New Year which also is a major holiday period.  
