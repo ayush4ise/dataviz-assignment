@@ -1,4 +1,4 @@
-## Final assignment submission for the Coursera [course](https://www.coursera.org/learn/python-plotting?specialization=data-science-python)- Applied Plotting, Charting and Data Representation in Python offered by University on Michigan.
+## Final assignment submission for the Coursera [course](https://www.coursera.org/learn/python-plotting?specialization=data-science-python)- Applied Plotting, Charting and Data Representation in Python offered by University of Michigan.
 
 *Objective question* - Comparing weekday vs. weekday average demand values and monthly demand changes  
 
