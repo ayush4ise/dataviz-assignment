@@ -1,12 +1,16 @@
-## Final assignment submission for the Coursera [course](https://www.coursera.org/learn/python-plotting?specialization=data-science-python)- Applied Plotting, Charting and Data Representation in Python offered by University of Michigan.
+# 📊 Final Assignment Submission - Applied Plotting, Charting and Data Representation in Python
 
-*Objective question* - Comparing weekday vs. weekday average demand values and monthly demand changes  
+## Coursera Course: [Applied Plotting, Charting and Data Representation in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python) by University of Michigan
 
-*Insights drawn* -  
-* Weekends have less energy demand than weekdays which might be result of the weekly holidays.  
-* For the period January-February, the demand decreases which is because of the Chinese New Year which also is a major holiday period.  
-* There is an increase in the energy demand for the period March-May which marks the summer season resulting in increased usage of appliances such as air-conditioners.  
-* There is an abrupt decrease in energy demand for the month of June which is the result of the break period for most of the academic institutions.  
-* The demand for rest of the year just decreases as the summer season ends.
+### Objective
+This submission focuses on comparing weekday vs. weekday average demand values and monthly demand changes.
 
-### The original data is collected from- [here](https://www.ema.gov.sg/statistic.aspx?sta_sid=20140826Y84sgBebjwKV)
+### Insights
+- Weekends exhibit lower energy demand compared to weekdays, likely due to weekly holidays.
+- During January-February, demand decreases due to the Chinese New Year, a major holiday period.
+- Energy demand rises from March to May, correlating with the summer season and increased appliance usage (e.g., air-conditioners).
+- June experiences an abrupt energy demand decrease due to academic institution break periods.
+- Post-summer, the demand gradually decreases throughout the rest of the year.
+
+### Data Source
+The original data was collected from [this source](https://www.ema.gov.sg/statistic.aspx?sta_sid=20140826Y84sgBebjwKV).
